@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ADAPTERS_LISTVIEW</string>
+    <string name="str_nombre">Ingrese un nombre</string>
+    <string name="str_nacimiento">Ingrese la fecha de nacimiento (yyyy-mm-dd)</string>
+    <string name="str_tipo">Tipo Mascota</string>
+    <string name="str_perro">Perro</string>
+    <string name="str_gato">Gato</string>
+    <string name="str_ave">Ave</string>
+    <string name="str_guardar">Guardar</string>
+    <string name="str_consultar">Consultar</string>
+
+</resources>
